@@ -1,0 +1,30 @@
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+current time [EST]: 2021-12-19 21:37:59.628996-05:00gamma: 3797 epsilon: 298
+power consumption: 1131506
+current time [EST]: 2021-12-19 21:38:50.946338-05:00-----------------------------------------------
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+-----------------------------------------------current time [EST]: 2021-12-19 21:39:16.272816-05:00-----------------------------------------------
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+----------------------------------------------- current time [EST]: 2021-12-19 21:46:07.268935-05:00 -----------------------------------------------
+gamma: 3797 epsilon: 298
+power consumption: 1131506
+----------------------------------------------- current time [EST]: 2021-12-19 21:47:40.199031-05:00 -----------------------------------------------
+gamma: 3797 epsilon: 298
+power consumption: 1131506
